@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning the trade of Ireland and Scotland, as they stand in competition with the trade of England being taken out of an essay on trade / written by Mr. John Cary, merchant in Bristol, and printed at Bristol, anno 1695.</title>
+            <author>Cary, John, d. 1720?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35181</idno>
+            <idno type="STC">Wing C727</idno>
+            <idno type="STC">ESTC R20493</idno>
+            <idno type="EEBO-CITATION">12259188</idno>
+            <idno type="OCLC">ocm 12259188</idno>
+            <idno type="VID">57763</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57763)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 175:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning the trade of Ireland and Scotland, as they stand in competition with the trade of England being taken out of an essay on trade / written by Mr. John Cary, merchant in Bristol, and printed at Bristol, anno 1695.</title>
+                  <author>Cary, John, d. 1720?</author>
+                  <author>Cary, John, d. 1720? Essay on the state of England in relation to its trade.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Reprinted at London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reprinted from: An essay on the state of England in relation to its trade. Bristol, 1695.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Navigation acts, 1649-1696.</term>
+               <term>Great Britain --  Commercial policy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57763:1"/>
+            <pb facs="tcp:57763:1"/>
+            <p>A DISCOURSE Concerning the TRADE OF IRELAND and SCOTLAND, As they ſtand in Competition with
+<hi>Trade of England,</hi> Being taken out of An ESSAY on TRADE.</p>
+            <p>Written by Mr. <hi>John Cary,</hi> Merchant in <hi>Briſtol,</hi>
+            </p>
+            <p>And Printed at <hi>Briſtol, Anno</hi> 1695.</p>
+            <p>Reprinted at <hi>London,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb facs="tcp:57763:2"/>
+            <pb n="1" facs="tcp:57763:2"/>
+            <head>A Diſcourſe concerning <hi>Ireland</hi> and <hi>Scotland,</hi> ſhewing how the Trade of thoſe Kingdoms may be made more Profitable to <hi>England;</hi> being taken out of an
+<hi>Eſſay</hi> on <hi>Trade.</hi>
+            </head>
+            <p>
+               <hi>IRELAND,</hi>
+               <note place="margin">Ireland.</note> of all the Plantations ſetled by the
+<hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> hath proved moſt injurious to the Trade of this Kingdom, and ſo far from anſwering the ends of a Colony, that it doth wholly violate them; for if Peo<g ref="char:EOLhyphen"/>ple be the Wealth of a Nation, then 'tis certain, that a bare parting with any of them cannot be its Ad<g ref="char:EOLhyphen"/>vantage, unleſs accompanied with Circumſtances whereby they may be rendred more uſeful both to themſelves, and al<g ref="char:EOLhyphen"/>ſo to thoſe they left behind them, elſe ſo far as you deprive it of ſuch who ſhould conſume its Product and improve its Manufactures you leſſen its true Intereſt, eſpecially when that Collony ſets up a ſeparate, and not only provides ſuf<g ref="char:EOLhyphen"/>ficient of both for its ſelf, but by the Overplus ſupplies other Markets, and thereby leſſens its Sales abroad; This to a King<g ref="char:EOLhyphen"/>dom ſo much made up of Manufactures as
+<hi>England</hi> is, muſt needs be attended with great Diſadvantages, and yet to maintain a good Correſpondence with <hi>Ireland</hi> is very conve<g ref="char:EOLhyphen"/>nient. I ſhall therefore conſider what Topicks may be laid down as general Rules for the Advantage of the former, and beſt agreeable with the true Intereſt of the latter.</p>
+            <p>It was a Queſtion once put by <hi>Pilate,</hi> what is Truth? And when he had ſaid this, he went out again unto the <hi>Jews, &amp;c.</hi> which Queſtion ſeems to me rather to ariſe from a Perturbation in his own Mind, occaſioned by the (flu<g ref="char:EOLhyphen"/>ctuating of ſeveral Intereſts, than from any Deſire he had to
+<pb n="2" facs="tcp:57763:3"/>receive an Anſwer, for we do not find he ſtaid to expect it; and the Conſequence ſhew'd 'twas ſo, for his being willing to do the <hi>Jews</hi> A Pleaſure, and fearing leſt he ſhould not be ac<g ref="char:EOLhyphen"/>counted a Friend to <hi>Caeſar,</hi> made him paſs Sentence againſt his Judgment on an innocent Perſon of whom he confeſt, he found no fault in him; Intereſt doth generally biaſs our Judgments in ſuch a manner, that the very ſuppoſing a thing to be ſo, makes us uneaſy under any Diſcourſe that perſuades only to enquire into it; but Truth is the ſame ſtill, and the eaſieſt way to diſcover it, is by walking in the Paths of Plainneſs; Falſhood wants Sophiſtry to lacker and ſet it off, therefore Men uſually repreſent their private Intereſts under the Name of a publick Good, and thereby endeavour to guild the Pill they would have go down.</p>
+            <p>The Heads I ſhall proceed on are theſe two.
+<list>
+                  <item>1. To ſhew that <hi>Ireland,</hi> as things now ſtand, is very de<g ref="char:EOLhyphen"/>ſtructive to to the Intereſt of <hi>England.</hi>
+                  </item>
+                  <item>2. That the Methods which may be uſed to render it more ſerviceable to the Intereſt of this Nation, will alſo ren<g ref="char:EOLhyphen"/>der it more ſerviceable to its own.</item>
+               </list>
+            </p>
+            <p>Theſe are plain Propoſitions, underſtood by every Man, and I hope to make them out with the ſame plainneſs.</p>
+            <p n="1">1. As to the firſt, that <hi>Ireland</hi> is now deſtructive to the In<g ref="char:EOLhyphen"/>tereſt of
+<hi>England,</hi> I think it will for as long as that People enjoy ſo free and open a Trade to Foreign Parts, and thereby are encouraged to advance in their Woollen Manufactures, they muſt conſequently leſſen ours, than which they cannot do us a greater Miſchief, be<g ref="char:EOLhyphen"/>ing the Tools whereon we trade, when they ſink, our Navi<g ref="char:EOLhyphen"/>gation ſinks with them.</p>
+            <p>Now the Advantage <hi>Ireland</hi> hath above <hi>England</hi> in ma<g ref="char:EOLhyphen"/>king the Woollen Manufactures, will ſoon give them oppor<g ref="char:EOLhyphen"/>tunities of outdoing us therein, firſt as it produces as good, or rather better Wool, and next as it furniſhes all Proviſions cheaper to the Workmen, which renders them able to live on eaſier Terms than ours can here, and this will in ſhort time give Invitation for many more to remove thither.</p>
+            <p n="2">2. But 'tis the ſecond Propoſition which will not be ſo ea<g ref="char:EOLhyphen"/>ſily allowed; how the true Intereſt of <hi>Ireland</hi> will be ad<g ref="char:EOLhyphen"/>vanced by ſuch means as ſhall be uſed to promote that of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <pb n="3" facs="tcp:57763:3"/>
+            <p>Here we muſt conſider, what is the true Intereſt of <hi>Ireland,</hi> and wherein it doth conſiſt? Whither in Trade and Manu<g ref="char:EOLhyphen"/>factures, or in Improvement of its Lands by a good Settle<g ref="char:EOLhyphen"/>ment? And I doubt not but on a ſtrict Scrutiny it will ap<g ref="char:EOLhyphen"/>pear to be the latter; for indeed till that is made, no Trade can be ſerviceable to any People farther than it doth help to<g ref="char:EOLhyphen"/>wards it; Nor is it the Advantage of an ill-peopled Colony whoſe Riches are to be the Fruits of the Earth to divert any number of the Inhabitants from its Cultivation, whilſt they can find Vent for their Product, and be ſupply'd with Conveni<g ref="char:EOLhyphen"/>ences another way; had our <hi>American</hi> Plantations done ſo, they had never been well ſetled, but much more of their Lands at this time unimproved; and this I take to be one great Reaſon why the <hi>Engliſh</hi> in <hi>Ireland</hi> have always lain open to the Inſults of the Natives there, the Country being ſlen<g ref="char:EOLhyphen"/>derly Peopled in the more inland Parts; if ſo, then certainly whatever hinders the Peopling, and conſequently the culti<g ref="char:EOLhyphen"/>vating and improving the Lands of <hi>Ireland,</hi> doth ſo far hinder the advancing its true Intereſt.</p>
+            <p>Now nothing doth this more than Trade abroad, and Ma<g ref="char:EOLhyphen"/>nufactures at home.
+<list>
+                  <item>1. As they divert great Numbers of People which cannot be ſpared from Husbandry.</item>
+                  <item>2. As they ſo far leſſen the Strength and Security of that Iſland.</item>
+               </list>
+            </p>
+            <p>The true Intereſt then of <hi>Ireland</hi> being Husbandry, Trade and Manufactures ſtand diametrically oppoſite thereto; for Trade being of it ſelf leſs laborious, and the Poor main<g ref="char:EOLhyphen"/>tained thereby living more eaſie than ſuch as are employed in the Field, doth invite them rather to ſettle in that way than the other; this is the reaſon why ſuch Multitudes of People daily flock into Cities from the Country, if they have either Encouragement themſelves, or can foreſee any for their Children, whereas few withdraw from Trade to the Labour of a Country Life; of this we have an eminent Ex<g ref="char:EOLhyphen"/>ample in <hi>New-England,</hi> which tho' it was the firſt peopled, and by its Trade hath drawn thither great Numbers of In<g ref="char:EOLhyphen"/>habitants, yet that large Colony hath not cultivated ſo much Ground, as far leſs Numbers have in other Plantations much later ſetled; for whereas in them the Product was thought to be their Wealth, and therefore the Setlers diſperſt them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="4" facs="tcp:57763:4"/>and with all the Aſſiſtance they could get endeavour<g ref="char:EOLhyphen"/>ed to clear and fit the Ground for breaking up, theſe took another Courſe, and by keeping together, choſe rather to live on Buying and Selling, by which means their Improvements are very ſmall, and their Product of no value ſutable to their Numbers, ſo that it ſeems at preſent rather a Magazine of Trade, their chief Imployment being to ſupply the other <hi>American</hi> Plantations with Fiſh catch'd on the Coaſts, and ſome other things raiſed near the Sea ſide, and in Returns bring thence the Commodities of their Growth, which they again barter with us, or Ship to Markets themſelves; and here it is to be noted, that the great Ballance of their Trade is Ships, (which having plenty of Timber) they build on reaſonable Rates, either for Sale, or to be imployed for tran<g ref="char:EOLhyphen"/>ſporting their own Commodities, which being generally bulky, ſuch as Timber, Mackrill, Bread, Horſes, for the Plantations, and Codfiſh for <hi>Europe,</hi> great part of their va<g ref="char:EOLhyphen"/>lue ariſes from their Freights; This was indeed their over<g ref="char:EOLhyphen"/>ſight at firſt, and now ſcarce to be retrieved; for had they then began with Planting, and followed that cloſely for ſome time, they might in all probability long ſince have made themſelves Maſters of a greater Product, which would have laid the Foundations of a much larger Trade both to
+<hi>Europe</hi> and other places in <hi>America;</hi> they are indeed a thrifty ſort of People, but want Commodities of their own Pro<g ref="char:EOLhyphen"/>duct, and the Profits of a Nations Trade being very much limited according to that, if the Parliament ſhould think fit by new Laws to hinder the Freedom they now enjoy in our <hi>American</hi> Plantations (which I judge abſolutely neceſſary, becauſe ſo much abuſed by their carrying thoſe Commodities to Foreign Markets without touching firſt in <hi>England,</hi> to the leſſening our Cuſtoms, and diſcouraging our Merchants here) their Trade muſt ſink, and they ſee their errer too late.</p>
+            <p n="2">2. And as Foreign Trade and Manufactures leſſen the Number of Husbandmen in
+<hi>Ireland,</hi> ſo ſecondly it leſſens the Strength and Security of that Iſland, which lies in a good Number of hardy People, enured to Labour, who with it defend their own Intereſts, and cannot depart thence without leaving their All; whereas Merchants and Traders being but Temporary Reſidents, may and often do leave a
+<pb n="5" facs="tcp:57763:4"/>place when it moſt requires their ſtay for its Defence; an In<g ref="char:EOLhyphen"/>ſtance of this we had lately, when the trading part of the Inhabitants thereof, who could remove their effects left it ſooneſt, whilſt the Men of Land came more uneaſily a<g ref="char:EOLhyphen"/>way, becauſe they left their Eſtates behind them, and had no Methods of maintaining themſelves in
+<hi>England,</hi> but by li<g ref="char:EOLhyphen"/>ving on what they brought with them, whereas the others ſoon fell into Trade here, and tho' they chang'd the place, were ſtill in their Employments; now the Security of the Free-holders of <hi>Ireland,</hi> is to engage as many as they can in the ſame Intereſt with themſelves, which may be done by divi<g ref="char:EOLhyphen"/>ding the Lands into particular Farmes, in bigneſs ſuitable to the Stocks of ſuch as undertake them; by this means they fix their roots in the Ground, and bind them with a Band of Iron; nor would many of their People (if Trade were diſcouraged) return to <hi>England</hi> again, but imploy themſelves and their Stocks in improving ſuch Farms as they ſhould pur<g ref="char:EOLhyphen"/>chaſe either for Lives or Years at eaſie Rents, or making them<g ref="char:EOLhyphen"/>ſelves Freeholders.</p>
+            <p>And as the ſecurity of <hi>Ireland</hi> is leſſen'd at Land by Trade, ſo likewiſe at Sea, for which they depend on the Kingdom of <hi>England;</hi> now can it be thought this Nation will be at con<g ref="char:EOLhyphen"/>tinual charges only to raiſe a People which ſhall vye with them in their Trade? Or that we can be able to do it when our Navigation decays? which it muſt do as the others in<g ref="char:EOLhyphen"/>creaſes, who afford us few Saylors towards Manning our Fleet, whilſt our own are harraſt by continual Preſſes; for let them be ſure if the <hi>French</hi> King could have marched an Army thither as eaſy as he could to <hi>Flanders,</hi> the Lands of <hi>Ireland</hi> might long ſince have had other Landlords, maugre all the defence they, could have made.</p>
+            <p>Nor does the profit of this Trade and Manufacture re<g ref="char:EOLhyphen"/>dound to the Free-holders, but only to the Traders, who as I hinted before, are a ſeparate Intereſt, and remove at their Pleaſures.</p>
+            <p>But if the People of <hi>Ireland</hi> think <hi>England</hi> is bound to de<g ref="char:EOLhyphen"/>fend them againſt a Foreign Invaſion, an Account of its own Intereſt and Security, they muſt be allowed to be in the right; yet let them conſider alſo that we have power to limit their Trade, ſo as it may be leaſt Prejudicial to our own, which in my Judgment cannot better be done, than by reducing
+<pb n="6" facs="tcp:57763:5"/>that Kingdom to the State of our other Plantations, confine<g ref="char:EOLhyphen"/>ing the Exportation of their Product only hither, and that alſo unmanufactured, and preventing their being ſupplied with Neceſſaries from other Nations; this will make <hi>Ireland</hi> profitable to
+<hi>England,</hi> and in ſome meaſure recompence the vaſt Charges we have been at for its Reduction and Delivery out of the Hands of foreign Powers and Popiſh Cut-throats, and that not leſs than twice in Forty Years, all paid by the People of <hi>England,</hi> a Gueſs whereat may be made by this, that the laſt coſt, above Three Hundred and Forty Thouſand Pounds only in Tranſport Ships, for which we now pay Intereſt; and if the Charge of Tranſporting our Army thither, with their Proviſions and Ammunition coſt ſo much, what did the pay of the firſt, and purchaſe of the latter amount unto? Now 'tis very reaſonable, the Nation ſhould ſome way or other receive Satisfaction for its Expences, and none ſeems more juſt and equal than this, which would only limit the Profits of a few Merchants, who carry on a Trade to the Prejudice of <hi>England;</hi> As for the Free Holders, they would be ſupplied with Neceſſaries on as cheap Terms as now, and find Chapmen for their Product, which would be bought up by Factories ſetled from <hi>England,</hi> or they might ſend them hither themſelves if they thought fit, and by this means all would be manufactured here, and Foreign Markets muſt be ſupplied hence as they are now thence.</p>
+            <p>This is the way to prevent Tranſporting their Wool for other places to the prejudice of our Manufactures, and im<g ref="char:EOLhyphen"/>porting Tobacco with other of our Plantation Commodities directly thence, to the prejudice of our Cuſtoms and Mer<g ref="char:EOLhyphen"/>chants; this alſo would employ our Navigation, and by its ſhort Voyages make Multitudes of Seamen; in ſhort, we cannot imagine the Advantages it would bring to this King<g ref="char:EOLhyphen"/>dom till Experience hath ſhewed us.</p>
+            <p>But then the <hi>Act of Prohibition</hi> muſt be repealed, there muſt be free Liberty to bring in Cattle both alive and dead, and all things elſe which that Land produces; and here I muſt again renew the Queſtion, <hi>What is Truth?</hi> 'Twill be as difficult to perſuade the Gentlemen of <hi>England</hi> that this is their true Intereſt, as it is thoſe of
+<hi>Ireland</hi> that theirs does not conſiſt in Trade and Manufactures, one being by aſſed by the breeding part of this Nation, as the others are by their Mer<g ref="char:EOLhyphen"/>chants,
+<pb n="7" facs="tcp:57763:5"/>who repreſent their private Profits as the Nations; and it is not to be wondred they have Succeſs therein, when it carries ſo much the Face of a preſent Advantage; but that the Gentlemen of <hi>England</hi> ſhould be ſtill fond of that Act after ſo many years ſmarting under it ſeems to me very ſtrange than which I know no Law in my time hath been more per<g ref="char:EOLhyphen"/>niceous to the Traffique of this Kingdom; 'twas this firſt put thoſe of <hi>Ireland</hi> on that Trade which hath ſince almoſt cat out ours; 'twas this ſet them on Manufactures, which were ſo far advanced before the late Troubles, that the Sales of one Market, as I have been informed, came to a Thou<g ref="char:EOLhyphen"/>ſand Pounds <hi>per</hi> Week; for ſo long as they had Liberty of importing their Product hither, and found a conſtant Sale when imported, they were contented therewith, but being put on a neceſſity of finding out Foreign Markets for their Previſions, this made their Merchants (who were before ge<g ref="char:EOLhyphen"/>nerally Factors to thoſe of <hi>England,</hi> and are, to give them their due, an ingenious prying People) dive deeper, and ſince we refuſed to take the Fleſh, they choſe to keep the Fleece, and either to Ship it to Foreign Countries where
+'twould yield a greater Price, or by a Manufacture to render it fit for thoſe Markets wherein they vended the other; 'Twas this that hath produced ſuch great Quantities of Wool in
+<hi>Ireland,</hi> as have at leaſt equal'd if not exceeded <hi>England,</hi> for the greateſt part of the Lands of that Kingdom by reaſon of the thinneſs of its Inhabitants, being turned rather to Paſture than Tillage, and this Prohibition diſcouraging the raiſing black Cattle, put the People on ſtocking them with She<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p; which Overplus would again decreaſe, if <hi>Ireland</hi> becoming better peopled in its
+<hi>Inland</hi> Parts by laying aſide Trade fell more on Tillage, or by repealing this Act the Inhabitants re<g ref="char:EOLhyphen"/>ceived Encouragement to betake themſelves again to breed<g ref="char:EOLhyphen"/>ing black Cattle; now if it be true that not the quantity of a Commodity at Market, but the Demand when there, makes it bear a Price, it will appear that the Makers of that Law were out in their Politiques, by not conſidering that the Product of <hi>Ireland</hi> muſt be conſumed ſomewhere and if ſent to Foreign parts formerly ſupplied hence 'twould abate the Exportation of ours, the Conſequence whereof would be the leſſening of their Expence abroad more than it was increaſed at home; nor did they at the ſame time take care
+<pb n="8" facs="tcp:57763:6"/>to put us on any Footing equal with the others, by Abate<g ref="char:EOLhyphen"/>ment in the Cuſtoms on Exportation, and thereby ena<g ref="char:EOLhyphen"/>bling the Merchants of <hi>England</hi> to ſell ſuitably with thoſe of <hi>Ireland,</hi> but ſtill continued Three Shillings <hi>per</hi> Barrel on Beef, and Four on Pork, whilſt the others paid much leſs there, the ſame on Butter, Bread, Flower and other Proviſions, ſo that a Stander by would have thought this Law had been contrived for the Advantage of <hi>Ireland;</hi> all which proceeded from the miſtaken Intereſt of one part of the Kingdom, which (were it true) ought not to prevail to the Detriment of a National Trade, and the true Intereſt of the Remainder.</p>
+            <p>Nor will it be reaſonable unleſs this Liberty be given to bind up <hi>Ireland</hi> from a Foreign Trade, and conſequently to confide the Conſumption of its Product to a Home Expence, except what we ſhall occaſionally fetch from them to carry abroad: This, as it will diſcourage the Free-holders there, ſo will it Induſtry here, and the Trade muſt be managed by great <hi>Funds,</hi> ſmall Stocks not being able to engage in tran<g ref="char:EOLhyphen"/>ſporting the Commodities they receive in barter to Foreign Markets, which they might in bringing them to <hi>England,</hi> being a ſhorter Voyage; and ſo conſequently the Product of <hi>Ireland</hi> would have more Buyers, and the Inhabitants be ſup<g ref="char:EOLhyphen"/>plyed with Neceſſaries on cheaper Terms by this free Trade, than when their whole Dependance ſhould be on thoſe Mo<g ref="char:EOLhyphen"/>nopolizers.</p>
+            <p>The next Queſtion will be, what Effect the taking off this Prohibition will have on our native Product? Whither it will leſſen it's Conſumption? I am of Opinion it will not, becauſe our Exports muſt be increaſed as theirs from <hi>Ireland</hi> are leſſened, unleſs we do imagine Foreign Markets will not conſume the ſame Quantities they did before, or will find out new ways to be ſupplied with them from other Places; be<g ref="char:EOLhyphen"/>ſides, by how much more Charges are added to the Products of <hi>Ireland</hi> (as thoſe of Freight and other petty Expences on ſuch bulky Commodities will be, if brought hither) ſo much will ours be put on the ſame Footing with them, and bear a better Price.</p>
+            <p>It's well known that the exporting our Wool to Foreign Markets hath, by the ill Conſequences thereof, abated its Price at Home; This hath been obſerved by Calculations made by conſidering Men, and the Reaſon was, becauſe
+<pb n="9" facs="tcp:57763:6"/>thoſe Countries were thereby enabled to work up much lar<g ref="char:EOLhyphen"/>ger Quantities of their own into various ſorts of Manufactures, which both fitted their occaſions at home, and ſupplied Mar<g ref="char:EOLhyphen"/>kets abroad where we generally vended ours; by this means our Sales growing ſlack, and finding new Competitors in our Trade, we were forced to ſell our Manufactures cheap, and this was done by making of them ſlighter, and by leſſening the Prices both of Wool and Labour; whereas, had we kept our Wool at home, theſe Miſchiefs had been prevented, and the
+<hi>French</hi> and other Nations could not have made ſuch a Progreſs in Manufactures as they have done; their Wool be<g ref="char:EOLhyphen"/>ing unfit to be wrought up by its ſelf (unleſs mixt with
+<hi>Engliſh</hi> or <hi>Iriſh</hi>) muſt have ſought a Market here, and been return<g ref="char:EOLhyphen"/>ed again to them in Manufactures, which is the true way to enrich this Kingdom; this would have drawn over great Numbers of People to be employed in the Cloathing Trade, who would likewiſe have conſumed our Product; and as theſe had increaſed ſo alſo had their Imployment, which would have kept up the price of Wool, things being of value in Markets according as they are ſupplied by Nations ſtanding in Competition for Trade, and it muſt be allowed that it was not the Intereſt of <hi>England</hi> to fall its Manufactures abroad, had we been the only Sellers; for according as they yielded there, ſo much is the Wealth of this Nation advan<g ref="char:EOLhyphen"/>ced: This our Fore-fathers knew when they made Laws not only to prohibit the Exportation of <hi>Wool</hi> hence, but alſo from <hi>Ireland,</hi> which Laws cannot be too ſtrong, on whoſe due Ob<g ref="char:EOLhyphen"/>ſervation depends our Wealth or Ruine; now if the Tra of <hi>Ireland</hi> was reduced to that of our other Colonies, and the ſame care taken about the Commodities of its growth, our danger from that Kingdom in Relation to this, would be at an end, when Methods may alſo be uſed to prevent its be<g ref="char:EOLhyphen"/>ing exported hence.</p>
+            <p>Nor is there any Reaſon to be offered why <hi>Ireland</hi> ſhould have greater Liberty than our other Plantations, the Inhabi<g ref="char:EOLhyphen"/>tants whereof have an equal Deſire to a free Trade, for<g ref="char:EOLhyphen"/>getting that the firſt deſign of their Settlement was to ad<g ref="char:EOLhyphen"/>vance the Intereſt of <hi>England,</hi> againſt whom no Arguments can be uſed, which will not equally hold good againſt
+<hi>Ireland.</hi>
+            </p>
+            <pb n="10" facs="tcp:57763:7"/>
+            <p n="1">1. As it was ſetled by Colonies ſpared from <hi>England.</hi>
+            </p>
+            <p n="2">2. As it hath been ſtill ſupported and defended at the Charge of <hi>England.</hi>
+            </p>
+            <p n="3">3. As it hath received equal Advantages with the other Plantations from the Expence
+<hi>England</hi> hath been at in carry<g ref="char:EOLhyphen"/>ing on Wars abroad and Revolutions at home; and on this laſt there is greater Reaſon againſt <hi>Ireland</hi> than any of the reſt, we have lately paid more Mony for the Purchaſe of that Trade than the Profits thereof may bring to us and our Po<g ref="char:EOLhyphen"/>ſterities for many Generations; ſo that 'twould be a piece of great Ingratitude for the Free-holders of <hi>Ireland</hi> unwilling<g ref="char:EOLhyphen"/>ly to ſubmit to any thing whereby the Intereſt of
+<hi>England</hi> may be advanced, to the Inhabitants whereof they are indebt<g ref="char:EOLhyphen"/>ed for their Lands, who have laid down their Lives, and ſpent their Treaſures to reinſtate them in their Poſſeſſions.</p>
+            <p>As for Corn, Fiſh, and Horſes, whether a Liberty may not be allowed to tranſport them thence direct for other Markets on Ships, firſt entring here in <hi>England</hi> is a point worth ſerious Conſideration.</p>
+            <p>But the main objection as to <hi>England</hi> is yet behind, a great part of the Gentlemen of this Kingdom thinking it will ſink the Rents of their Lands if <hi>Iriſh</hi> Cattle are admitted to be brought over alive, others, that the Importation of Provi<g ref="char:EOLhyphen"/>ſions thence will fall the price of our own; and though in the former they do not ſo generally agree, differing accor<g ref="char:EOLhyphen"/>ding as their Lands are ſcituated, and proper for breeding or ſeeding; yet in the latter they more unanimouſly conſent, and cry out, <hi>This is the great Diana of the Epheſians,</hi> the leſs Proviſions are brought in, the more of our own will be ex<g ref="char:EOLhyphen"/>pended; whereas, if they did impartially conſider, they would find it an empty <hi>Idol;</hi> nothing will advance their Lands like Trade and Manufactures, therefore whatever turns the Stream of theſe elſewhere leſſens the Number of In<g ref="char:EOLhyphen"/>habitants who ſhould conſume their Proviſions, and when thoſe increaſes ſo do the others, which (beſides a home Con<g ref="char:EOLhyphen"/>ſumption by People engaged in Imployments diſtinct from Husbandry) doth always invite many Foreigners hither, who being temporary Reſidents, ſpend our Product, it be<g ref="char:EOLhyphen"/>ing a ſure Maxim,
+<hi>that where the Carcaſs is, there will the Ea<g ref="char:EOLhyphen"/>gles be gathered together.</hi>
+            </p>
+            <pb n="11" facs="tcp:57763:7"/>
+            <p>Beſides, when the <hi>Iriſh</hi> Proviſions are brought hither' thoſe Markets which were ſupply'd with them thence before, will then have them hence, tho' perhaps at dearer Rates, and with them great Quantities of our own: No Man can imagine what Expence there would be of
+<hi>Engliſh</hi> Cattle were we once fallen into the Trade of making Proviſions here,
+<hi>England</hi> as well in its Beef as Manufactures exceeding all other Countries, with this far<g ref="char:EOLhyphen"/>ther Advantage, that the former for Goodneſs and Price can<g ref="char:EOLhyphen"/>not be ſupplied from any other place ſave <hi>Ireland;</hi> nor do I ſuppoſe it ſo much the Intereſt of this Kingdom when Pro<g ref="char:EOLhyphen"/>viſions are advanced only by a Home Expence, as when tis done by a Foreign Export, the firſt makes particular Men grow Rich, by preying on their Neighbours, but the Nation grows Rich by the latter, when we vend them abroad at good Prices; nor would our Plantations, which now take off the greateſt part of the Cattle ſlaughtered in <hi>Ireland</hi> ſpend one Barrel leſs, if kill'd here.</p>
+            <p>All Trade had a beginning, occaſioned by ſome lucky Accident which put People on new Projects, and why <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> which hath ſo many Plantations depending on it, ſhould ſuſpect a Conſumption for its Cattle, I cannot imagine; we might then ſet the Rates of Proviſions there, and the Mer<g ref="char:EOLhyphen"/>chants afford to give better Prices for them here, when they ſhall load them at home, and ſave the Charges of going to <hi>Ireland,</hi> without fear of having their early Markets foreſtall'd thence; and the Planters being now grown Rich, are like<g ref="char:EOLhyphen"/>wiſe better able to give greater Rates for them than they could at their firſt Settlement;
+<hi>England</hi> had never a fairer oppor<g ref="char:EOLhyphen"/>tunity of making an Entry on this Trade, than now it hath, which would ſoon conſume great Numbers of Cattle, and conſequently give Encouragement to our Breeding Countries, as well as the Feeding.</p>
+            <p>But if a Manufactory is thought fit for <hi>Ireland,</hi> and its Cir<g ref="char:EOLhyphen"/>cumſtances will admit thereof, let that of Linnen be encou<g ref="char:EOLhyphen"/>raged; this may draw over multitudes of <hi>French</hi> Refuges, and put them upon an Employment wherewith they were formerly acquainted, which we muſt aſſiſt by the Benefit of Importation Cuſtom free, and the Advantage of Faſhion; and then theſe two Kingdoms encouraging different Manu<g ref="char:EOLhyphen"/>factures, will be ſerviceable to each other, for which Stocks
+<pb n="21" facs="tcp:57763:8"/>would not be wanting, even from the People of <hi>England,</hi> who would delight to ſee <hi>Ireland</hi> thrive, when their Manu<g ref="char:EOLhyphen"/>factures croſt not ours; This would in time alter the Ballance of our Trade with <hi>France,</hi> when we ſhall ſend thither more Woollen, and receive thence leſs Linnen.</p>
+            <p>If the wiſdom of the Parliament ſhall think fit by theſe, or any other Methods, to make
+<hi>Ireland</hi> more ſerviceable to the Trade of <hi>England,</hi> it will advance both the Lands and Traffick of this Kingdom, and ſo make us all better able to pay the Charge of this long and expenſive War.</p>
+            <p>I ſhall next ſay ſomething to the Trade of <hi>Scotland,</hi>
+               <note place="margin">Scotland.</note> which hath formerly conſumed more of our Woollen Manufactures than now it doth, ſince that Nation is fallen on making them there, which they do out of their own Wool, with the help of what they get from us, alſo of <hi>Spaniſh,</hi> both from hence and from <hi>Holland.</hi>
+            </p>
+            <p>But their chief Manufactures are Linnen, Butter, and Herrings; 'twere to be wiſh'd the former was more encoura<g ref="char:EOLhyphen"/>ged by this Government, with Liberty to bring it hither Cuſtom free, provided they would ſend us alſo their Wool, and then our Manufactures would not juſtle with each o<g ref="char:EOLhyphen"/>ther; King <hi>James</hi> the II. limited their Trade to his Pleaſure, by Act of Parliament; which I take to be a great reaſon why that People were ſo much at his Devotion: but the Liberty of a free Trade, was made one of the Terms where<g ref="char:EOLhyphen"/>on His preſent Majeſty received the Crown; who hath ſince given them Encouragement to ſettle Plantations abroad, ſuch as they ſhall either Plant, or buy from Foreign Princes, which he hath promiſed to enfranchiſe with the ſame Rights and Privileges he doth grant in like Caſes, to the Subjects of his other Dominions.</p>
+            <p>They have alſo fallen lately on the thoughts of Codd Fiſh<g ref="char:EOLhyphen"/>ing, whereof they have great ſhoals about their Coaſts, which formerly they uſe to pickle and ſend away in Casks, but now intend to cure, after the manner 'tis done in <hi>Newfoundland.</hi>
+            </p>
+            <p>And doubtleſs theſe three things would much encourage Trade, had they Stocks to manage them; but thoſe they want. I have heard it diſcours'd, that the Caſh of that King<g ref="char:EOLhyphen"/>dom amounted to One Million of Pounds Sterling; but I ſcarce believe it does to One Half, perhaps not to One Third, which properly belongs to its Inhabitants; therefore they
+<pb n="13" facs="tcp:57763:8"/>propoſe to carry on the Woollen Manufactures, Plantations, and Fiſhery by
+<hi>Engliſh</hi> Stocks, the two laſt by Companies, which will conſiſt chiefly of
+<hi>Londoners,</hi> who firſt promoted the Deſigns, and will furniſh Monies for making them. Now I cannot think any Nation can ſettle Plantations abroad to advantage, which wants Stock and Manufactures of its own to ſupply them, the great Profit of Plantations being to encourage Manufactures at Home; and the means to ſet<g ref="char:EOLhyphen"/>tle them, is by giving long credit co the Planters abroad, and when this is done, by Money taken up at Intereſt from ano<g ref="char:EOLhyphen"/>ther Nation, the whole Profit will redound to the Lenders; ſo that the <hi>Scotch</hi> may make Settlements abroad, but if nei<g ref="char:EOLhyphen"/>ther the Stock nor Manufactures are their own, they will have only the name of being Proprietors, whilſt others car<g ref="char:EOLhyphen"/>ry away the Profits; like a Gentleman, who pays as much for Intereſt yearly as the Rents of his Lands bring in, he may have the Poſſeſſion, but the Uſurer has the Income of his Eſtate; ſo for their Fiſhing, which being managed on
+<hi>Engliſh</hi> Stocks, will bring them only ſo much as ſhall pay for the labour of thoſe Imployed about it; The ſame for their Woollen Manufactures.</p>
+            <p>On the other ſide, if the Trade to theſe Plantations is driven by an <hi>Engliſh</hi> Corporation, the <hi>Scotch</hi> indeed will get Imployments for their Saylors, but all the Product will be other Men's, who will take care for their own Advantage to keep the Planters poor abroad, and the Inhabitants from inſpecting into it at home.</p>
+            <p>Beſides, that Kingdom being now ſupplied from <hi>England</hi> with <hi>Weſt-India</hi> Commodities at cheaper Rates than they can expect to raiſe them, will want vent for their new Product when brought Home, unleſs abſolutely prohibited to be im<g ref="char:EOLhyphen"/>ported thither from hence, which will be a new Tax on the Spender, paid only to a Foreign Monopoly; neither can they Export them to ſell on equal Terms with the <hi>Engliſh:</hi> So that on the whole I cannot ſee what advantage the <hi>Scotch</hi> can make at this time of day, by ſetling Plantations; which if they do attempt, we muſt be ſure to take care of <hi>Ireland,</hi> and by reducing it to the terms of a Colony, prevent their ſelling the Product there, which I am apt to think is the main thing they aim at.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
